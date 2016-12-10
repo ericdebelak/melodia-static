@@ -1,0 +1,15 @@
+<form id="contact" method="post" action="https://formspree.io/liza@melodiamusiclessons.com">
+  <label for="name">Name:</label><br />
+  <input type="text" id="name" name="name" required><br /><br />
+  <label for="email">Email:</label><br />
+  <input type="email" id="email" name="email" required><br /><br />
+  <label for="message">Message:</label><br />
+  <textarea rows="10" cols="50" id="message" name="message" required></textarea><br /><br />
+  <input type="submit" name="submit" value="Submit">
+</form>
+<br />
+Or call <a href="tel:505-359-1352">505-359-1352</a>.
+<script src="http://malsup.github.com/min/jquery.form.min.js"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.min.js"></script>
+<script type="text/javascript" src="{{ site.url }}/js/contactValidation.js"></script>
