@@ -4,7 +4,7 @@ title: Melodia Music Lessons, Rio Rancho, NM, Albuquerque, NM, ABQ, NM
 keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lessons, preschool music lessons, private music lessons
 description: Preschool Music Lessons, Homeschool Music Lessons and Private Music Lessons in Rio Rancho and Albuquerque area, NM.
 ---
-<img style="float:right; margin-top: 15px; margin-bottom: 15px; margin-left: 15px;" src="/images/lesson.png" alt="girl playing tamborine" />
+<img style="float:right; margin-top: 15px; margin-bottom: 15px; margin-left: 15px;" src="{{site.url}}/images/lesson.png" alt="girl playing tamborine" />
 # Welcome to Melodia Music Lessons!
 We provide groups lessons for preschoolers, elementary students and homeschoolers as well as individual piano lessons in Albuquerque and Rio Rancho, NM. We can teach your child about music appreciation, basic music theory, the musical instrument families, great composers, different musical genres and much, much more.
 
