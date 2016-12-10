@@ -101,7 +101,7 @@ h3 {
     font-family: "Tahoma", "Geneva", sans-serif;
 }
 body {
-  background: url("/images/background.png") no-repeat;
+  background: url("/melodia-static/images/background.png") no-repeat;
 }
 #bottom {
     display: block;
@@ -145,7 +145,6 @@ iframe {
         width:90%;
     }
     body {
-        background: url("/images/background.png") no-repeat;
         top:0;
     }
 }
