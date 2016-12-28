@@ -6,7 +6,8 @@ description: Preschool Music Lessons, Homeschool Music Lessons and Private Music
 keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lessons, preschool music lessons, private music lessons
 ---
 # Group Music Lessons
-## Musical train
+
+## Musical Train
 
 <span style="color:#e86c1a">Done by Request</span>
 <img src="{{ site.url }}/images/Trainweb.png" alt="Train"  />
