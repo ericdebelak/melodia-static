@@ -9,7 +9,7 @@ keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lesso
 
 ## Musical Train
 
-<span style="color:#e86c1a">Done by Request</span>
+<p><span style="color:#e86c1a">Done by Request</span></p>
 <img src="{{ site.url }}/images/Trainweb.png" alt="Train"  />
 
 Ages: 4-7 years old
