@@ -27,13 +27,13 @@ Register <a href="{{ site.url }}/registration" target="_blank">here.</a>
 
 Ages: 3-7 years old
 
-Classes are 45 minutes long, 2:00 - 2:45 pm
+Classes are 45 minutes long
 
 8 weeks
 
 During this class, we will creatively study the main elements of music, like melody, rhythm, timbre, dynamics and tempo. Children will enrich their auditory skills and create and play music in small groups on unpitched instruments like drums, triangles, tambourines, rhythm sticks and shakers. Every lesson will provide a unique way of learning basic elements of music theory in combination with singing, movement, music making and building music vocabulary. This class is based on the rich classical musical approach and is the perfect way to start your child's musical journey.
 
-$90 + tax per child for 8 weeks. Family rate for two or more children is $80 + tax per child.
+$80 + tax per child for 8 weeks. Family rate for two or more children is $70 + tax per child.
 
 Register <a href="{{ site.url }}/registration" target="_blank">here.</a>
 <br />

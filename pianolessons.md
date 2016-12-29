@@ -6,7 +6,7 @@ description: Preschool Music Lessons, Homeschool Music Lessons and Private Music
 keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lessons, preschool music lessons, private music lessons
 ---
 # Piano Lessons
-Individual lessons are be offered for beginners, intermediate and advance levels.
+Individual lessons are be offered for beginners and intermediate levels.
 
 Weekly 30 minute lessons cost $70 + tax per month. Family rates for two or more students are $60 + tax per month per child.
 
