@@ -9,3 +9,6 @@ keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lesso
 Are you, your school group or any other group interested in special presentations on Russian music and culture? Liza Debelak provides interactive presentations that include the balalaika, Russia's most famous folk instrument, and singing of both folk and classical music from Russia and other Eastern European countries.
 
 Liza Debelak has a Masters Degree in Balalaika Performance from Petrozavodsk State Music Conservatory, one of the leading Conservatories in Russia. Liza has given performances in Russia, Germany, Finland and in many US states.
+
+## Upcoming Concerts
+<img src='/images/concert.png' alt='concert'>
