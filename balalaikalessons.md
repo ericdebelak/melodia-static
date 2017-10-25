@@ -8,7 +8,7 @@ keywords: balalaika lessons, music lessons,ABQ, NM, Rio Rancho, Albuquerque, hom
 # Balalaika Lessons
 Individual lessons are be offered for beginners, intermediate and advance levels.
 
-Weekly 30 minute lessons cost $80 + tax per month. Family rates for two or more students are $70 + tax per month per child.
+Weekly 30 minute lessons cost $100 + tax per month. Family rates are available.
 
 The APS Holiday Schedule will be followed as non-teaching days.
 
