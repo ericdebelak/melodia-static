@@ -35,11 +35,11 @@ Together we will discover the joy of music through:
 Registration & materials fee $10 ( per child)
 
 #### Early Registration (By March 9th)
-$95 per child/ 8 weeks<br/>
+$95 + tax per child/ 8 weeks<br/>
 second child - 10% off<br/>
 
 #### Regular Registration
-Tuition is $105 per child/ 8 weeks<br/>
+Tuition is $105 + tax per child/ 8 weeks<br/>
 second child - 10% off<br/>
 
 Register <a href="{{ site.baseurl }}/registration" target="_blank">here.</a>
