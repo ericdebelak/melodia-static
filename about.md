@@ -12,8 +12,8 @@ Liza Debelak is also an accomplished performer and has performed vocal and balal
 
 Melodia offers group music lessons for preschoolers and homeschoolers as well as private piano lessons. Special presentations on Russian music and culture are also available.
 
-Lessons take place at Eagle Ranch Church, 9660-6 Eagle Ranch Rd NW, Albuquerque, NM 87114
+Lessons take place at 2400 Violeta Cir SE, Rio Rancho, NM 87124, just 5 mins from Cottonwood Mall.
 
 <br />
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.594347685!2d-106.66098649999996!3d35.19166180000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8722717dc7a88525%3A0x1f244c6a248ccd05!2s9660+Eagle+Ranch+Rd+NW!5e0!3m2!1sen!2sus!4v1404792150842" width="90%" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3259.479588354108!2d-106.68346638425813!3d35.21942968030457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872271abe47d5861%3A0x71fec4bf8616a1b!2s2400+Violeta+Cir+SE%2C+Rio+Rancho%2C+NM+87124!5e0!3m2!1sen!2sus!4v1517695510322" width="90%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br />

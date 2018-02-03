@@ -40,10 +40,10 @@ h3 {
     height:50px;
     padding-left: 10px;
     padding-right: 10px;
-    background: -webkit-linear-gradient(#fc2626, #eb1f1f); /* For Safari */
-    background: -o-linear-gradient(#fc2626, #eb1f1f); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#fc2626, #eb1f1f); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#fc2626, #eb1f1f); /* Standard syntax */
+    background: -webkit-linear-gradient(#F3203D, #CE021E); /* For Safari */
+    background: -o-linear-gradient(#F3203D, #CE021E); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#F3203D, #CE021E); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#F3203D, #CE021E); /* Standard syntax */
 }
 #menu {
     width:900px;
@@ -99,10 +99,6 @@ h3 {
     line-height:50px;
     text-align:center;
     font-family: "Tahoma", "Geneva", sans-serif;
-}
-#logo-container {
-  background: url("/images/background.png") no-repeat;
-  background-size: cover;
 }
 #bottom {
     display: block;
