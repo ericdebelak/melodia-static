@@ -10,6 +10,6 @@ description: Preschool Music Lessons, Homeschool Music Lessons and Private Music
 
 We provide groups lessons for preschoolers, elementary students and homeschoolers as well as individual piano lessons in Albuquerque and Rio Rancho, NM. We can teach your child about music appreciation, basic music theory, the musical instrument families, great composers, different musical genres and much, much more.
 
-We follow the Russian approach of musical education where before teaching a child to play an instrument, he or she needs to first develop a feel for music and learn the fundamentals of music, like musical vocabulary, basic music theory and how music expresses emotion. This is the foundation for successfully learning how to play an instrument later.
+We follow a traditional approach of musical education where before teaching a child to play an instrument, he or she needs to first develop a feel for music and learn the fundamentals of music, like musical vocabulary, basic music theory and how music expresses emotion. This is the foundation for successfully learning how to play an instrument later.
 
 But our classes are not just for children who want to later play an instrument. Our classes will help your child appreciate music and be musically literate, which is an important part of any education.

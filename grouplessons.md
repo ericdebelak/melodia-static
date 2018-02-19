@@ -34,7 +34,7 @@ Together we will discover the joy of music through:
 ### Registration
 Registration & materials fee $10 ( per child)
 
-#### Early Registration (By March 9th)
+#### Early Registration (By March 12th)
 $95 + tax per child/ 8 weeks<br/>
 second child - 10% off<br/>
 
