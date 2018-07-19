@@ -9,13 +9,7 @@ keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lesso
 
 ## Music Fun Safari
 
-Ages: 4-5 years old
-
-### Spring Semester
-April 2nd - May 21st<br/>
-8 weeks<br/>
-1 hour lesson on Mondays from 10 - 11 am<br/>
-Class Size: 4 - 6 children<br/>
+Ages: 3-5 years old
 
 ### Description
 
@@ -34,11 +28,7 @@ Together we will discover the joy of music through:
 ### Registration
 Registration & materials fee $10 ( per child)
 
-#### Early Registration (By March 12th)
-$95 + tax per child/ 8 weeks<br/>
-second child - 10% off<br/>
-
-#### Regular Registration
+#### Registration
 Tuition is $105 + tax per child/ 8 weeks<br/>
 second child - 10% off<br/>
 
