@@ -27,8 +27,6 @@ Together we will discover the joy of music through:
 <br/>
 ### Registration
 Registration & materials fee $10 ( per child)
-
-#### Registration
 Tuition is $105 + tax per child/ 8 weeks<br/>
 second child - 10% off<br/>
 
