@@ -8,7 +8,7 @@ keywords: music lessons,ABQ, NM, Rio Rancho, Albuquerque, homeschool music lesso
 # Piano Lessons
 Individual lessons are be offered for beginners and intermediate levels.
 
-Weekly 30 minute lessons cost $90 + tax per month. Family rates for two or more students are $80 + tax per month per child.
+Weekly 30 minute lessons cost $100 per month (tax included). Family rates for two or more students are $90 per month per child.
 
 The APS Holiday Schedule will be followed as non-teaching days.
 
