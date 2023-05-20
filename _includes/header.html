@@ -1,32 +1,29 @@
-<div id="logo-container" style="background: url('{{site.baseurl}}/images/background.png') no-repeat; background-size: cover;">
-    <img id="logo" src="{{site.baseurl}}/images/melodialogotrans.png" alt="logo" />
-</div>
-<div id="header">
-        <div id="menubar">
-            <ul id="menu">
-                <li><a href="{{ site.baseurl }}/"><div>Home</div></a></li>
-                <li><a href="{{ site.baseurl }}/about"><div>About</div></a></li>
-                <!--<li><a href="{{ site.baseurl }}/group-lessons"><div>Group Lessons</div></a></li>-->
-                <li><a href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a></li>
-                <li><a href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a></li>
-                <li><a href="{{ site.baseurl }}/balalaika-lessons"><div>Balalaika</div></a></li>
-                <li><a href="{{ site.baseurl }}/russian-music"><div>Russian Music</div></a></li>
-                <li><a href="{{ site.baseurl }}/contact"><div>Contact</div></a></li>
+<div style="background-image: linear-gradient(rgba(255, 255, 255, .3), rgba(255, 255, 255, .5)), url('{{site.baseurl}}/images/background.png');" class="bg-no-repeat bg-cover bg-center">
+    <div class="container  px-4 mx-auto flex items-end justify-center xl:justify-between">
+        <img src="{{site.baseurl}}/images/melodialogotrans.png" alt="logo" class="py-4"/>
+        <div class="w-full py-5 hidden xl:block">
+            <ul class="flex items-center justify-end gap-5 text-xl main-nav">
+                <li class="hover:underline"><a href="{{ site.baseurl }}/"><div>Home</div></a></li>
+                <li class="hover:underline"><a href="{{ site.baseurl }}/about"><div>About</div></a></li>
+                <li class="hover:underline"><a href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a></li>
+                <li class="hover:underline"><a href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a></li>
+                <li class="hover:underline"><a href="https://onlinebalalaikalessons.com/" target="_blank"><div>Balalaika</div></a></li>
+                <li class="hover:underline"><a href="{{ site.baseurl }}/contact"><div>Contact</div></a></li>
             </ul>
         </div>
-
     </div>
-<div id="buttonbackground"><div id="mobilemenubutton">Menu</div>
-    <div id="mobilemenu">
-        <a href="{{ site.baseurl }}/"><div>Home</div></a>
-        <a href="{{ site.baseurl }}/about"><div>About</div></a>
-        <!--<a href="{{ site.baseurl }}/group-lessons"><div>Group Lessons</div></a>-->
-        <a href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a>
-        <a href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a>
-        <a href="{{ site.baseurl }}/balalaika-lessons"><div>Balalaika</div></a>
-        <a href="{{ site.baseurl }}/russian-music"><div>Russian Music</div></a>
-        <a href="{{ site.baseurl }}/contact"><div>Contact</div></a>
+</div>
+<div class="bg-blue h-1 hidden xl:block drop-shadow-lg"></div>
+<div class="block xl:hidden w-full bg-blue text-white py-5">
+    <div class="container mx-auto px-4">
+        <div id="mobilemenubutton" class="cursor-pointer">Menu</div>
+        <div id="mobilemenu" class="hidden ml-4 mt-4">
+            <a class="py-1 block" href="{{ site.baseurl }}/"><div>Home</div></a>
+            <a class="py-1 block" href="{{ site.baseurl }}/about"><div>About</div></a>
+            <a class="py-1 block" href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a>
+            <a class="py-1 block" href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a>
+            <a class="py-1 block" href="https://onlinebalalaikalessons.com/" target="_blank"><div>Balalaika</div></a>
+            <a class="py-1 block" href="{{ site.baseurl }}/contact"><div>Contact</div></a>
+        </div>
     </div>
-    <div id="mobilemenubuttonbottom"></div>
-    <div id="mobilemenubuttonbottomtwo"></div>
 </div>
