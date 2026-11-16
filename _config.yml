@@ -25,7 +25,7 @@ url: "http://melodiamusiclessons.com" # the base hostname & protocol for your si
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
