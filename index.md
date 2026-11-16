@@ -47,7 +47,7 @@ description: Preschool Music Lessons, Homeschool Music Lessons and Private Music
       <div class="card-icon" aria-hidden="true">&#9834;</div>
       <h3>Balalaika</h3>
       <p>Learn the traditional Russian folk instrument with online lessons.</p>
-      <a class="card-link" href="https://onlinebalalaikalessons.com/" target="_blank" rel="noopener">Balalaika lessons</a>
+      <a class="card-link" href="https://onlinebalalaikalessons.com/" target="_blank" rel="noopener">Balalaika lessons<span class="sr-only"> (opens in new tab)</span></a>
     </div>
   </div>
 </section>

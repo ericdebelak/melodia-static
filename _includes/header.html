@@ -11,7 +11,7 @@
           {% assign parts = item | split: "|" %}
           {% assign href = parts[1] %}
           {% if href contains "://" %}
-            <li><a href="{{ href }}" target="_blank" rel="noopener">{{ parts[0] }}</a></li>
+            <li><a href="{{ href }}" target="_blank" rel="noopener">{{ parts[0] }}<span class="sr-only"> (opens in new tab)</span></a></li>
           {% else %}
             <li><a href="{{ site.baseurl }}{{ href }}"{% if page.url == href %} aria-current="page"{% endif %}>{{ parts[0] }}</a></li>
           {% endif %}
