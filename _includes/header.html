@@ -1,29 +1,23 @@
-<div style="background-image: linear-gradient(rgba(255, 255, 255, .3), rgba(255, 255, 255, .5)), url('{{site.baseurl}}/images/background.png');" class="bg-no-repeat bg-cover bg-center">
-    <div class="container  px-4 mx-auto flex items-end justify-center xl:justify-between">
-        <img src="{{site.baseurl}}/images/melodialogotrans.png" alt="logo" class="py-4"/>
-        <div class="w-full py-5 hidden xl:block">
-            <ul class="flex items-center justify-end gap-5 text-xl main-nav">
-                <li class="hover:underline"><a href="{{ site.baseurl }}/"><div>Home</div></a></li>
-                <li class="hover:underline"><a href="{{ site.baseurl }}/about"><div>About</div></a></li>
-                <li class="hover:underline"><a href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a></li>
-                <li class="hover:underline"><a href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a></li>
-                <li class="hover:underline"><a href="https://onlinebalalaikalessons.com/" target="_blank"><div>Balalaika</div></a></li>
-                <li class="hover:underline"><a href="{{ site.baseurl }}/contact"><div>Contact</div></a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="bg-blue h-1 hidden xl:block drop-shadow-lg"></div>
-<div class="block xl:hidden w-full bg-blue text-white py-5">
-    <div class="container mx-auto px-4">
-        <div id="mobilemenubutton" class="cursor-pointer">Menu</div>
-        <div id="mobilemenu" class="hidden ml-4 mt-4">
-            <a class="py-1 block" href="{{ site.baseurl }}/"><div>Home</div></a>
-            <a class="py-1 block" href="{{ site.baseurl }}/about"><div>About</div></a>
-            <a class="py-1 block" href="{{ site.baseurl }}/piano-lessons"><div>Piano</div></a>
-            <a class="py-1 block" href="{{ site.baseurl }}/voice-lessons"><div>Voice</div></a>
-            <a class="py-1 block" href="https://onlinebalalaikalessons.com/" target="_blank"><div>Balalaika</div></a>
-            <a class="py-1 block" href="{{ site.baseurl }}/contact"><div>Contact</div></a>
-        </div>
-    </div>
-</div>
+{% assign nav = "Home|/,About|/about/,Piano|/piano-lessons/,Voice|/voice-lessons/,Balalaika|https://onlinebalalaikalessons.com/,Contact|/contact/" | split: "," %}
+<header class="site-header">
+  <div class="container">
+    <a class="logo" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/melodialogotrans.png" alt="Melodia Music Lessons" /></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav">
+      <span class="nav-toggle-bars" aria-hidden="true"></span> Menu
+    </button>
+    <nav class="main-nav" id="main-nav" aria-label="Main">
+      <ul>
+        {% for item in nav %}
+          {% assign parts = item | split: "|" %}
+          {% assign href = parts[1] %}
+          {% if href contains "://" %}
+            <li><a href="{{ href }}" target="_blank" rel="noopener">{{ parts[0] }}</a></li>
+          {% else %}
+            <li><a href="{{ site.baseurl }}{{ href }}"{% if page.url == href %} aria-current="page"{% endif %}>{{ parts[0] }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+<div class="accent-bar" aria-hidden="true"></div>
